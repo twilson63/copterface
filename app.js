@@ -119,7 +119,7 @@ client.after(5000,function(){
 });
 
 
-client.after(60000, function() {
+client.after(30000, function() {
     flying = false;
     this.stop();
     this.land();

@@ -1,0 +1,21 @@
+{
+  "name": "copterface",
+  "version": "0.0.0",
+  "description": "Installing ==========",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulhayes/copterface.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e9f2b287cd35b1430ef7715119fdb9c9fe7d4950",
+  "dependencies": {
+    "opencv": "~0.1.0",
+    "buffy": "0.0.5"
+  }
+}
